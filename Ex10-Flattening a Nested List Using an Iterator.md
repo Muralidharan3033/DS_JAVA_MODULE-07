@@ -15,8 +15,7 @@ To design and implement a class NestedIterator that flattens a nested list of in
 
 6.Test the iterator with a sample nested list.
 
-7.Stop the program.  
-
+7.Stop the program.
 ## Program:
 ```
 /*
@@ -107,7 +106,8 @@ public class FlattenNestedList {
 ```
 
 ## Output:
-<img width="465" height="85" alt="image" src="https://github.com/user-attachments/assets/3e37e496-252c-4c3f-ad4b-924ac894d5b3" />
+
+<img width="594" height="90" alt="514429842-2ed02c84-5ea3-4a30-bd22-198ca361f5b2" src="https://github.com/user-attachments/assets/d1664638-b3c3-4f2a-99dd-eef7663175c4" />
 
 
 
